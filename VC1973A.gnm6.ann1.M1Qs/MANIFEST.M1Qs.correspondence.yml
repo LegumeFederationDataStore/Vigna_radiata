@@ -1,7 +1,9 @@
+%YAML 1.2
+---
 # filename_in_this_repository: previous_name
-  vigra.VC1973A.gnm6.ann1.M1Qs.cds.fna.gz: Vradi.ver6.cor.cds.fa
-  vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_mRNA.gff3.gz: Vradi.ver6.cor.mRNA.gff
-  vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz: Vradi.ver6.cor.gff
+vigra.VC1973A.gnm6.ann1.M1Qs.cds.fna.gz: Vradi.ver6.cor.cds.fa
+vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_mRNA.gff3.gz: Vradi.ver6.cor.mRNA.gff
+vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz: Vradi.ver6.cor.gff
 vigra.VC1973A.gnm6.ann1.M1Qs.genes.fna.gz              
-  vigra.VC1973A.gnm6.ann1.M1Qs.protein.faa.gz: Vradi.ver6.cor.pep.fa
-  vigra.VC1973A.gnm6.ann1.M1Qs.scaffolds_in_pchr.gff3.gz: Vradi.ver6.cor.contig.gff
+vigra.VC1973A.gnm6.ann1.M1Qs.protein.faa.gz: Vradi.ver6.cor.pep.fa
+vigra.VC1973A.gnm6.ann1.M1Qs.scaffolds_in_pchr.gff3.gz: Vradi.ver6.cor.contig.gff
