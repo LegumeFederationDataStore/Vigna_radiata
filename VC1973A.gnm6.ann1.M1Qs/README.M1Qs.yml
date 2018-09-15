@@ -53,3 +53,4 @@ file_transformation:
 
 changes: 
   - 2018-03-03 Added MANIFEST files
+  - 2018-09-15 Added prefixes to seq ids in fastas (s/^>/>vigra.VC1973A.gnm6.ann1./)
